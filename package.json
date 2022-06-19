@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yirszk/my-typescript-practice/issues"
   },
-  "homepage": "https://github.com/yirszk/my-typescript-practice#readme"
+  "homepage": "https://github.com/yirszk/my-typescript-practice#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
