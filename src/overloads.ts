@@ -12,7 +12,7 @@ function double(value: any): any {
   } else if (typeof value === 'string') {
     return value + value;
   } else {
-    throw '引数の型を確認してください'
+    throw '引数の型を確認してください';
   }
 }
 
